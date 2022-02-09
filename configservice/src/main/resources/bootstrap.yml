@@ -10,7 +10,3 @@ spring:
           uri: https://github.com/speraignacio/BootcampSpringCloud
           # especificamos donde estan los archivos de configuracion de nuestro proyecto
           searchPaths: config-data
-  # security:
-user:
-  name: root
-  password: s3cr3t  
