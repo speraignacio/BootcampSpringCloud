@@ -7,10 +7,10 @@ spring:
       server:
         git:
           # url de respositorio donde estan ubicados los yml de los proyectos
-          uri: https://github.com/speraignacio/BootcampSpringCloud.git
+          uri: https://github.com/speraignacio/BootcampSpringCloud
           # especificamos donde estan los archivos de configuracion de nuestro proyecto
           searchPaths: config-data
-  security:
-    user:
-      name: root
-      password: s3cr3t  
+  # security:
+user:
+  name: root
+  password: s3cr3t  
